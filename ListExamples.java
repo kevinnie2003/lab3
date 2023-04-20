@@ -46,4 +46,7 @@ class ListExamples {
   }
 
 
+  public boolean checkString(String s) {
+      return true;
+  }
 }
